@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://test_scene"]
+
+[ext_resource type="Script" path="res://test_multisync_compatibility.gd" id="1_test"]
+
+[node name="TestRunner" type="Node"]
+script = ExtResource("1_test")
+
