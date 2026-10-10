@@ -16,4 +16,4 @@ editor and run it. `run_test.sh` runs the compatibility check from a shell.
 
 ## Licence
 
-This repository does not state a licence.
+MIT. See [LICENSE](LICENSE).
